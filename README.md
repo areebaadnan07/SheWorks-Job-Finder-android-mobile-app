@@ -3,7 +3,7 @@
 SheWorks is an android mobile application designed to empower women in their career development by providing a curated job board, a supportive community forum, events and connection opportunities. This app helps women create professional profiles, connect with employers, engage in a community, and discover career opportunities.
 
 
-![figma design](https://github.com/areebaadnan07/SheWorks-Job-Finder-android-app/blob/master/figma_design.jpg)
+![figma design](https://github.com/areebaadnan07/SheWorks-Job-Finder-android-mobile-app/blob/main/figma_design.jpg)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -107,7 +107,7 @@ The application includes the following screens:
 ### Installation
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/Vaneeza-7/SheWorks-Job-Finder-android-app.git
+    git clone https://github.com/areebaadnan07/SheWorks-Job-Finder-android-mobile.app.git
     ```
 2. **Open the project in Android Studio.**
 3. **Connect to Firebase:**
